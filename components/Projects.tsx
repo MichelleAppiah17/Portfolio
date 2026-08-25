@@ -14,7 +14,7 @@ const projects = [
   },
   {
     title: "Book Inventory Application",
-    tag: "Full-Stack · AI",
+    tag: "Full-Stack , AI",
     period: "2023",
     description:
       "A digital book management platform for browsing, organizing, and managing collections, with secure authentication, social login, an AI-powered recommendation system, and a reading planner to track progress.",
