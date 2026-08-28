@@ -14,6 +14,7 @@ export const siteConfig = {
     grundfos: "https://www.grundfos.com/gh",
     forage: "https://www.theforage.com/partner/jpmorgan-chase",
     theOdinProject: "https://www.theodinproject.com/",
+    apexhrProject: "https://apex-hr-gray.vercel.app/",
     smartHomeProject:
       "https://drive.google.com/file/d/1Gtqt-Kp5MqIuFpP1gRnqXvaMiHNHb7Fb/view?usp=drivesdk",
     bookInventoryProject: "https://inventory-application-henna.vercel.app/",
