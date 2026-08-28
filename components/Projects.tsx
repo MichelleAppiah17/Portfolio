@@ -32,6 +32,16 @@ const projects = [
     link: siteConfig.links.bookInventoryProject,
     linkLabel: "Visit live site",
   },
+  {
+  title: "MembersOnly",
+  tag: "Full-Stack Authentication & Authorization",
+  period: "2026",
+  description:
+    "A full-stack clubhouse application built to practice user authentication and authorization, allowing members to create posts, access exclusive content, and manage permissions based on membership and admin status.",
+  stack: ["Node.js", "Express", "PostgreSQL", "Passport.js", "EJS"],
+  link: siteConfig.links.membersonlyProject,
+  linkLabel: "View demo",
+  },
 ];
 
 export default function Projects() {
