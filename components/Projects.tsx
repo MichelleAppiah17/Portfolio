@@ -9,7 +9,7 @@ const projects = [
     description:
      "A multi-tenant HR management system designed to streamline employee management, leave requests, approvals, policies, and administrative workflows, with role-based access and secure authentication across organizations.",
     stack: ["Next.js", "MariaDB", "Nest.js"],
-    link: siteConfig.links.smartHomeProject,
+    link: siteConfig.links.apexhrProject,
     linkLabel: "View demo",
   },
   {
