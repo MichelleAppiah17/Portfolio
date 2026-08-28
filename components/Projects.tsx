@@ -3,6 +3,16 @@ import { siteConfig } from "./siteConfig";
 
 const projects = [
   {
+    title: "ApexHR",
+    tag: "Full-Stack Multi-Tenant SaaS HRMS",
+    period: "04/2026 — 08/2026",
+    description:
+     "A multi-tenant HR management system designed to streamline employee management, leave requests, approvals, policies, and administrative workflows, with role-based access and secure authentication across organizations.",
+    stack: ["Next.js", "MariaDB", "Nest.js"],
+    link: siteConfig.links.smartHomeProject,
+    linkLabel: "View demo",
+  },
+  {
     title: "Smart Home Automation System",
     tag: "Robotics & IoT",
     period: "06/2025 — 08/2025",
