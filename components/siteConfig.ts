@@ -15,6 +15,7 @@ export const siteConfig = {
     forage: "https://www.theforage.com/partner/jpmorgan-chase",
     theOdinProject: "https://www.theodinproject.com/",
     apexhrProject: "https://apex-hr-gray.vercel.app/",
+    membersonlyProject: "https://membersonly-i3hz.onrender.com/",
     smartHomeProject:
       "https://drive.google.com/file/d/1Gtqt-Kp5MqIuFpP1gRnqXvaMiHNHb7Fb/view?usp=drivesdk",
     bookInventoryProject: "https://inventory-application-henna.vercel.app/",
